@@ -1,2 +1,4 @@
 # eris-notifications-service
-Eris Notifications Service is a highly configurable and scalable service that handles processing notifications from a queue blazingly fast using Golang.
+Eris Notifications Service is a simple service that handles processing notifications blazingly fast using Golang.
+
+Currently, the service only supports sending emails using AWS SES.
